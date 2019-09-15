@@ -78,3 +78,14 @@ p{
     height: 1200px;
    padding: 40px;
 }
+h2{
+    color: teal !important;
+    padding-left: 10px;
+    padding-bottom: 80px;
+    border-bottom: 1px solid grey 
+}
+footer{
+    background-color: grey;
+    color: white;
+    border-top: 10px solid teal;
+}
